@@ -91,4 +91,4 @@ The main goal is to provide HR decision-makers with:
 # Conclusion
 This Power BI HR Analytics Dashboard is a powerful tool for organizations looking to transform raw HR data into meaningful, actionable insights. With interactive visuals and deeper analytical layers, the solution helps companies strengthen their HR operations and make informed workforce decisions.
 
-This Power BI HR Analytics Dashboard is a powerful tool for organizations looking to transform raw HR data into meaningful, actionable insights. With interactive visuals and deeper analytical layers, the solution helps companies strengthen their HR operations and make informed workforce decisions.
+
